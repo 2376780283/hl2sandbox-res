@@ -4,10 +4,10 @@
 	{
 		"ControlName"		"CPanelListPanel"
 		"fieldName"		"GameOptions"
-		"xpos"		"10"
+		"xpos"		"100"
 		"ypos"		"12"
-		"wide"		"312"
-		"tall"		"340"
+		"wide"		"332"
+		"tall"		"364"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"

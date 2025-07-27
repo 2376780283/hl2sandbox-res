@@ -33,12 +33,12 @@
 	// 	"command" "OpenNewGameDialog"
 	// 	"notmulti" "1"
 	// }
-	// "6"
-	// {
-	// 	"label" "#GameUI_GameMenu_LoadGame"
-	// 	"command" "OpenLoadGameDialog"
-	// 	"notmulti" "1"
-	// }
+	 "6"
+	 {
+	 	"label" "#GameUI_GameMenu_LoadGame"
+		"command" "OpenBonusMapsDialog"
+	 	"notmulti" "1"
+	 }
 	// "7"
 	// {
 	// 	"label" "#GameUI_GameMenu_SaveGame"

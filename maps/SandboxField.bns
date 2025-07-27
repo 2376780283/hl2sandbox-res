@@ -1,0 +1,8 @@
+"sandbox"
+{
+	"map"		"sb_field"
+	"image"		"bonusmaps/testchmb_a_08_challenges"
+	"comment"	"this is default map"
+	"lock"		"0"
+
+}
