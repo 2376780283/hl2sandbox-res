@@ -4,14 +4,18 @@
 	icon	"icon_hl2"
 	title	"HALF+LIFE'"
 	title2	"sandbox"
+	type	multiplayer_only
 	nomodels 0
 	nohimodel 1
 	nocrosshair 1
+	
 	hidden_maps
 	{
 		"test_speakers"		1
 		"test_hardware"		1
 	}
+	
+	InstancePath"	"maps/instances/
 	developer "Planimeter"
 	developer_url "https://github.com/Planimeter/hl2sb"
 	manual "https://github.com/Planimeter/hl2sb"
@@ -32,15 +36,16 @@ FileSystem
 			// Note that this folder is scanned only when the game is booted.
 			game+mod			hl2sb/custom/*
 			game+mod             hl2sb/addons/*
-			game+mod			hl2/custom/*
-
-
+			
 			// We search VPK files before ordinary folders, because most files will be found in
 			// VPK and we can avoid making thousands of file system calls to attempt to open files
 			// in folders where they don't exist.  (Searching a VPK is much faster than making an operating
 			// system call.)
 
 			game+mod 			hl2sb
+			
+			// too big 
+			game+mod			hl2sb/game_pak.vpk
 			
 			game				|all_source_engine_paths|hl2/hl2_textures.vpk
 			game				|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk

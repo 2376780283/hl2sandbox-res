@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{	
-	"$baseTexture" "models\player\funnyrat\LibertyCrown"
-	"$bumpmap" "models\player\funnyrat\LibertyCrownNRM"
-	"$nocull" "1"
-}

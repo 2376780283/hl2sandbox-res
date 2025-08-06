@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/gm_construct/nature/water_canals03_-748_3344_-103.vmt"
+	"insert"
+	{
+		"$waterdepth"		"736"
+	}
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_construct/c-748_3344_-103"
+		"Proxies"
+		{
+		}
+	}
+}

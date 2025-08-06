@@ -905,7 +905,7 @@
 		"rightText"		"1.00"
 		"minvalue"		"75"
 		"maxvalue"		"110"
-		"cvar_name"		"fov_desired"
+		"cvar_name"		"fov"
 		"scalefactor" 	"1"
 		"allowoutofrange"		"0"
 	}
