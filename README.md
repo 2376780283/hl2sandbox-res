@@ -7,3 +7,7 @@
 - 修复缺损文件
 - res修复
 - 支持html css js 等
+
+# source code of game
+url：
+https://github.com/2376780283/source-engine.git
